@@ -1,8 +1,0 @@
-测试顺序
-demo_test.m
-testL0Smoothing.m
-bmp2ppm_for_densecrf.m
-crf.sh
-th.m
-结果储存在./test/test_final中
-METRIC.m用于衡量指标
