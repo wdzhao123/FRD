@@ -25,7 +25,7 @@ If you would like to obtain the all results directly, you can download them at:h
 
 At last, if our work can help you, please cite our paper:
 
-@article{DBLP:journals/tip/ZhaoHYHL20,
+@article{ZhaoHYHL20,
   author    = {Wenda Zhao and
                Xueqing Hou and
                Xiaobing Yu and
