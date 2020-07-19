@@ -1,6 +1,8 @@
 # FRD
 Towards weakly-supervised focus region detection via recurrent constraint network
 
+Our dataset of DUT_FocusBox5000 can be downloaded at: https://pan.baidu.com/s/1yuDXfY1_KlmdXw101RSlUg  (Extraction code: bh9v)
+
 Instructions for the Use of Algorithms:
 
 1. Firstly, you should download the Caffe model at: https://pan.baidu.com/s/1fT6zuB93wXTvF-k8qLLP7Q
